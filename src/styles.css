@@ -225,7 +225,6 @@ li {
   font-size: 0.9rem;
   margin: 8px 0;
   display: -webkit-box;
-  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
